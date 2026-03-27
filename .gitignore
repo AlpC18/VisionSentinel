@@ -1,0 +1,26 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+
+# macOS Metadata
+.DS_Store
+
+# User Data / Outputs
+Vault/
+RECORD_*.mp4
+SCREENSHOT_*.jpg
+
+# Editor / Project Settings
+.vscode/
+cv_projem.code-workspace
+
+# Large Models / Temp
+*.tflite
+*.task
+*.pt
+tmp/
+Master Prompt/
